@@ -159,5 +159,9 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+    .apresentacao__links__botao {
+        width: auto;
+        padding: 21.5px 15px;
+    }
 
 }
